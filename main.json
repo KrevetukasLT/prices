@@ -1,5 +1,14 @@
 {
   "Neocaridina_sp_BLUE_VELVET": {
     "price": 5
+  },
+  "Neocaridina_sp_ORANGE_SUNKIST": {
+    "price": 6
+  },
+  "Neocaridina_sp_RED_CHERRY": {
+    "price": 7
+  },
+  "Neocaridina_sp_YELLOW_BACKLINE": {
+    "price": 8
   }
 }
